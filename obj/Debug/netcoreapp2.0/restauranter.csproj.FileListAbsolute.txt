@@ -1,0 +1,11 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/bin/Debug/netcoreapp2.0/restauranter.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/bin/Debug/netcoreapp2.0/restauranter.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/bin/Debug/netcoreapp2.0/restauranter.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/bin/Debug/netcoreapp2.0/restauranter.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/bin/Debug/netcoreapp2.0/restauranter.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/obj/Debug/netcoreapp2.0/restauranter.csprojResolveAssemblyReference.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/obj/Debug/netcoreapp2.0/restauranter.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/obj/Debug/netcoreapp2.0/restauranter.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/obj/Debug/netcoreapp2.0/restauranter.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/obj/Debug/netcoreapp2.0/restauranter.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/restauranter/obj/Debug/netcoreapp2.0/restauranter.pdb
